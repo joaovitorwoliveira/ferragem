@@ -1,0 +1,23 @@
+[
+  {
+    "nome": "Prego 6mm",
+    "preco": "R$0,25",
+    "estoque": 500,
+    "codigo": "001",
+    "imagem": "https://cdn.leroymerlin.com.br/products/prego_ferro_polido_com_cabeca_1,8x27,6mm_12x12_25g_86948806_662c_600x600.jpg"
+  },
+  {
+    "nome": "Martelo",
+    "preco": "R$70,00",
+    "estoque": 30,
+    "codigo": "002",
+    "imagem": "https://madmais.vteximg.com.br/arquivos/ids/166529-0-0/MARTELO-UNHA-CABO-MADEIRA-23MM-1.jpg?v=638240813583870000"
+  },
+  {
+    "nome": "Chave de fenda",
+    "preco": "R$10,00",
+    "estoque": 50,
+    "codigo": "003",
+    "imagem": "https://santil.jetassets.com.br/produto/16255044150001382761783.jpg"
+  }
+]
