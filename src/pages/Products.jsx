@@ -1,6 +1,6 @@
 import "react-responsive-modal/styles.css";
 
-import React, { useState, useEffect } from "react";
+import { useState, useEffect } from "react";
 import Modal from "react-responsive-modal";
 import { FaEdit, FaPlus, FaSearch, FaTrash } from "react-icons/fa";
 import { Toaster } from "sonner";
